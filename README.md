@@ -1,16 +1,21 @@
-# cic_courses
+# Canadian international college (CIC)
 
-A new Flutter project.
+Flutter basics and Dart basics Course 
 
-## Getting Started
+## Contents
+* Dart 
+  * Dart basics
+  * OOP
+* Flutter 
+  * Widgets
+  * MaterialApp
+  * Scaffold
+  * Column
+  * Row
+  * Text
+  * Container
+    
+This Course is level one and the first step to the students in programing language world ☝️ .
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Students 🥰 
+![IMG-20231202-WA0112](https://github.com/shadymohamed532001/CIC-Courses/assets/126605393/c3c67cb5-9f94-41ce-b02e-3f6154a95ff3)
